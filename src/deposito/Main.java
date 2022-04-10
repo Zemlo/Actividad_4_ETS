@@ -1,7 +1,15 @@
 package deposito;
 
+/**
+ * Clase que engloba los métodos de inicio del programa.
+ */
 public class Main {
 
+    /**
+     * Los argumentos de la línea de comandos que normalmente se pasarían al programa javac como
+     * se describe en la página man.
+     * @param args Argumentos de línea de comandos.
+     */
     public static void main(String[] args) {
 
         CCuenta cuenta1;
